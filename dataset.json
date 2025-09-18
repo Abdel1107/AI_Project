@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "AI in Fraud Detection",
+        "content": "This article discusses how AI models detect fraudulent activities.",
+        "tags": [
+            "AI",
+            "Fraud Detection",
+            "Security"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Cloud Computing Basics",
+        "content": "Introduction to cloud services and their applications.",
+        "tags": [
+            "Cloud Computing",
+            "Basics",
+            "Technology"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Advanced NLP Techniques",
+        "content": "Deep dive into NLP techniques and their applications in various fields.",
+        "tags": [
+            "NLP",
+            "AI",
+            "Deep Learning"
+        ]
+    }
+]
